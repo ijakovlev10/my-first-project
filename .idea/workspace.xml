@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a76d967d-a733-4781-b9e3-af8f4aa8fe7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/classroom/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/classroom/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/classroom/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/classroom/ObjectExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv/acodemy/classroom/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv/acodemy/classroom/ArrayExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +62,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayExample">
+  <component name="RunManager" selected="Application.ObjectExample">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lv.acodemy.classroom.ArrayExample" />
+      <module name="my-first-project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv.acodemy.classroom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.acodemy.classroom.ObjectExample" />
       <module name="my-first-project1" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectExample" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.VariblesDataTypes" />
       </list>
@@ -112,6 +127,8 @@
       <workItem from="1678713870803" duration="2997000" />
       <workItem from="1678717388976" duration="2000" />
       <workItem from="1678721228278" duration="3104000" />
+      <workItem from="1678957087988" duration="2187000" />
+      <workItem from="1679039863165" duration="4672000" />
     </task>
     <task id="LOCAL-00001" summary="[mane]: Upload project">
       <created>1678291246923</created>
